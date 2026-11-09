@@ -4,6 +4,11 @@ Self-referential text experiments powered by [`@chenglou/pretext`](https://githu
 
 Each paragraph measures itself with pretext's pure-arithmetic text layout, injects the measurements back into its own content, and iterates to a fixed point. Resize the window and the numbers update live — no DOM measurements involved.
 
+## Demos
+
+- `/` — self-referential text
+- `/deformed` — prismatic, glitch-smeared typography (see `src/lib/deformed-text/README.md`)
+
 ## Getting Started
 
 ```bash
